@@ -11,6 +11,7 @@ My projects are reflection of daily struggles that were made easier to deal with
 🌱 I’m currently learning Pytorch
 
 ⚡ Daily thought: Idea is nothing without execution
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,pytorch)](https://skillicons.dev)
 
 📫 How to reach me: luka.vukovic288@gmail.com
 
