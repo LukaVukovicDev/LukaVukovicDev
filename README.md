@@ -1,4 +1,4 @@
-<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/ad2af4c1-8bac-4d4b-ba8d-1e0069a42e76" />## Hi there 👋
+## Hi there 👋
 
 I'm Luka Vukovic, software engineering student based in Kragujevac.
 
