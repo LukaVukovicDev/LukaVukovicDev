@@ -10,7 +10,7 @@ My projects are reflection of daily struggles that were made easier to deal with
 
 🌱 I’m currently learning Pytorch
 
-:rocket: Student at PMF KG
+:rocket: Student at [PMF KG](https://imi.pmf.kg.ac.rs/)
 
 ⚡ Daily thought: Idea is nothing without execution
 
