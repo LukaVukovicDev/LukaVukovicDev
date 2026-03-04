@@ -16,7 +16,11 @@ My projects are reflection of daily struggles that were made easier to deal with
 
 📫 How to reach me: luka.vukovic288@gmail.com
 
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)
+<p align="center">
+  <a href="[https://skillicons.dev](https://www.linkedin.com/in/luka-vukovic-4417a6312/)">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+</p>
 
 
 <!--
