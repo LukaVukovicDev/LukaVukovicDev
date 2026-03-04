@@ -1,4 +1,4 @@
-## Hi there 👋
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/ad2af4c1-8bac-4d4b-ba8d-1e0069a42e76" />## Hi there 👋
 
 I'm Luka Vukovic, software engineering student based in Kragujevac.
 
@@ -9,6 +9,8 @@ My projects are reflection of daily struggles that were made easier to deal with
 🔭 I’m currently working on C# .NET
 
 🌱 I’m currently learning Pytorch
+
+:rocket: Student at PMF KG
 
 ⚡ Daily thought: Idea is nothing without execution
 
