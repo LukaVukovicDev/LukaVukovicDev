@@ -16,6 +16,8 @@ My projects are reflection of daily struggles that were made easier to deal with
 
 📫 How to reach me: luka.vukovic288@gmail.com
 
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)
+
 
 <!--
 **LukaVukovicDev/LukaVukovicDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
