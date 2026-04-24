@@ -6,7 +6,7 @@ I try to connect real world problems and solve it with various technology.
 
 My projects are reflection of daily struggles that were made easier to deal with thanks to my ideas and execution.
 
-🔭 I’m currently working on C# .NET
+🔭 I’m currently working on C# .NET and Angular
 
 🌱 I’m currently learning Pytorch
 
