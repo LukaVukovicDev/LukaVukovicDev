@@ -14,7 +14,7 @@ My projects are reflection of daily struggles that were made easier to deal with
 
 ⚡ Daily thought: Idea is nothing without execution
 
-[![My Skills](https://skillicons.dev/icons?i=js,angular,html,css,php,pytorch)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,js,angular,html,css,php,pytorch)](https://skillicons.dev)
 
 📫 How to reach me: luka.vukovic288@gmail.com
 
